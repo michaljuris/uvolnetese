@@ -15,10 +15,10 @@ keep_files:
 
 # Site settings
 title: "Uvolnete se"
-subtitle: "A free HTML5 agency template"
-url: "http://luminousrubyist.github.io" # the base hostname & protocol for your site
+subtitle: ""
+url: "http://uvolnetese.cz" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: "/uvolnetese"
+baseurl: "/"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
